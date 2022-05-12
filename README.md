@@ -4,10 +4,10 @@ Eva is name pronunciation cloud based AI, which leverages Azure platform to pron
 ## Installation
 ### Windows
 ```sh
-py -m pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Unix
 ```sh
-pip -r requirements.txt
+pip3 install -r requirements.txt
 ```
