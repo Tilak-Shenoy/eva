@@ -31,8 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # REST application 
-    'api.apps.ApiConfig',
+    
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -41,6 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Django REST framework 
     'rest_framework',
+    # REST application 
+    'api.apps.ApiConfig',
     # CORS
     'corsheaders',
 ]
@@ -62,7 +63,7 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_ALLOW_ALL = False
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:8081',
+    'http://localhost:4200',
 )
 
 ROOT_URLCONF = 'server.urls'
@@ -94,7 +95,6 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'NAME': 'name-pronounce-tool',
-        'ENFORCE_SCHEMA': False,
         'CLIENT': {
             'host': 'mongodb://wfmandalorian:4UaMpDeWZo1fmTb0tpTmZ2XKTEuBpiWLOdME9jhYhm1Zw2jjULTbzNvnDOWAkkC7Z2UMQz0edawGeekXZkcLjg==@wfmandalorian.mongo.cosmos.azure.com:10255/?ssl=true&retrywrites=false&replicaSet=globaldb&maxIdleTimeMS=120000&appName=@wfmandalorian@'
         }

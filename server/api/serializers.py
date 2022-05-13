@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from server.api.models import Voices
+from api.models import Voices
 
 class ApiSerializers(serializers.ModelSerializer):
     class Meta:

@@ -1,0 +1,45 @@
+id,language,country,locale,gender,voice_name
+101,English (Australia),Australia,en-AU,Female,en-AU-NatashaNeural
+102,English (Australia),Australia,en-AU,Male,en-AU-WilliamNeural
+103,English (Canada),Canada,en-CA,Female,en-CA-ClaraNeural
+104,English (Canada),Canada,en-CA,Male,en-CA-LiamNeural
+105,English (Hongkong),Hongkong,en-HK,Female,en-HK-YanNeural
+106,English (Hongkong),Hongkong,en-HK,Male,en-HK-SamNeural
+107,English (India),India,en-IN,Female,en-IN-NeerjaNeural
+108,English (India),India,en-IN,Male,en-IN-PrabhatNeural
+109,English (Ireland),Ireland,en-IE,Female,en-IE-EmilyNeural
+110,English (Ireland),Ireland,en-IE,Male,en-IE-ConnorNeural
+111,English (Kenya),Kenya,en-KE,Female,en-KE-AsiliaNeural
+112,English (Kenya),Kenya,en-KE,Male,en-KE-ChilembaNeural
+113,English (New Zealand),New Zealand,en-NZ,Female,en-NZ-MollyNeural
+114,English (New Zealand),New Zealand,en-NZ,Male,en-NZ-MitchellNeural
+115,English (Nigeria),Nigeria,en-NG,Female,en-NG-EzinneNeural
+116,English (Nigeria),Nigeria,en-NG,Male,en-NG-AbeoNeural
+117,English (Philippines),Philippines,en-PH,Female,en-PH-RosaNeural
+118,English (Philippines),Philippines,en-PH,Male,en-PH-JamesNeural
+119,English (Singapore),Singapore,en-SG,Female,en-SG-LunaNeural
+120,English (Singapore),Singapore,en-SG,Male,en-SG-WayneNeural
+121,English (South Africa),South Africa,en-ZA,Female,en-ZA-LeahNeural
+122,English (South Africa),South Africa,en-ZA,Male,en-ZA-LukeNeural
+123,English (Tanzania),Tanzania,en-TZ,Female,en-TZ-ImaniNeural
+124,English (Tanzania),Tanzania,en-TZ,Male,en-TZ-ElimuNeural
+125,English (United Kingdom),United Kingdom,en-GB,Female,en-GB-LibbyNeural
+126,English (United Kingdom),United Kingdom,en-GB,Female,"en-GB-MiaNeuralÿRetired on 30 October 2021, see below"
+127,English (United Kingdom),United Kingdom,en-GB,Female,en-GB-SoniaNeural
+128,English (United Kingdom),United Kingdom,en-GB,Male,en-GB-RyanNeural
+129,English (United States),United States,en-US,Female,en-US-AmberNeural
+130,English (United States),United States,en-US,Female,en-US-AriaNeural
+131,English (United States),United States,en-US,Female,en-US-AshleyNeural
+132,English (United States),United States,en-US,Female,en-US-CoraNeural
+133,English (United States),United States,en-US,Female,en-US-ElizabethNeural
+134,English (United States),United States,en-US,Female,en-US-JennyNeural
+135,English (United States),United States,en-USÿas the primary default. Additional locales are supportedÿusing SSML,Female,en-US-JennyMultilingualNeural
+136,English (United States),United States,en-US,Female,en-US-MichelleNeural
+137,English (United States),United States,en-US,Female,en-US-MonicaNeural
+138,English (United States),United States,en-US,Female,en-US-SaraNeural
+139,English (United States),United States,en-US,Kid,en-US-AnaNeural
+140,English (United States),United States,en-US,Male,en-US-BrandonNeural
+141,English (United States),United States,en-US,Male,en-US-ChristopherNeural
+142,English (United States),United States,en-US,Male,en-US-EricNeural
+143,English (United States),United States,en-US,Male,en-US-GuyNeural
+144,English (United States),United States,en-US,Male,en-US-JacobNeural
